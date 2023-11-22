@@ -1,0 +1,56 @@
+.soil-forecast-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;  
+}
+.default-background {
+    background-color: #e31010; 
+  }
+  .default-background p{
+      color:bisque;
+  }  
+  .sunny-background {
+    background-image: url('sunny.avif'); 
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat; 
+    color: darkblue;
+  }
+  .sunny-background p{
+    color:indianred;
+  }
+  
+  .rainy-background {
+    background-image: url('rainimage.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat:repeat; 
+  }
+  .rainy-background p{
+    color: white;
+  }
+  .snowing-background {
+    background-image: url('snow.png'); 
+    background-size: contain;
+    background-position: center;
+    background-repeat:no-repeat; 
+  }
+  .snowing-background p{
+    color: white;
+  }
+.forecast-container{
+   width:500px;
+   height: 215px;
+   border-radius: 10px;
+   overflow: hidden;
+   
+}
+.soil-container{
+    width:500px;
+    height: 215px;
+    border-radius: 10px;
+    background-image: url('soilmoisturebackground.png');
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat; 
+};

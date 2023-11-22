@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+  .login-container{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+  }
+  .Img-container{
+        padding: 0;
+        margin: 0;
+        height: 100vh;
+        width: 65%;
+        flex-direction: row;
+        background-image: url('Image2.png');
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: center;
+  }
+  .Img-container h1{
+      padding:0;
+      margin:0;
+      color:white;
+      font-family: 'Poppins';
+      font-size: 50px;
+      margin-left: 50px;
+      line-height: 91.6px;
+  }
+  
+  .Form-container{
+    width:50%;
+    height: 100vh;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+  }
+  .Form-entries h2{
+    color:#494F7A;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 2em;
+  }
+  .Form-entries label{
+    color: black;
+    font-family: 'Poppins';
+  }
+  .Form-entries input{
+    width:50vh;
+    padding:16px ;
+    font-family: 'Poppins';
+    border:none;
+  }
+  .Form-entries .buttonid{
+    width: 60vh ;
+    color:white;
+    background-color: #494F7A;
+    padding:16px;
+    border: 2px solid lightgray;
+    border-radius: 6px;
+    font-family: 'Poppins';
+    display: block; 
+    text-align: center; 
+    text-decoration: none; 
+  }
+  .Form-entries .buttonid:hover{
+     background-color: #525677;
+  }

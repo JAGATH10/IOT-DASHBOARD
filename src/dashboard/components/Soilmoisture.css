@@ -1,0 +1,27 @@
+.soilmoisture-container{
+    padding: 10px;
+    color: azure;
+}
+.soilmoisture-container span{
+    color: white;
+    font-size: 20px;
+}
+.soiltextswitch-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.soilvaluegraph-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.soilvalue{
+    font-size: 30px;
+}
+.Moisture-text{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    
+}

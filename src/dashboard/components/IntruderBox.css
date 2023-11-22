@@ -1,0 +1,14 @@
+.intruder-flexcontainer{
+    margin-top: 50px;
+    background-color:bisque;
+    width: 75vw;
+    height:75vh;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px  grey;
+    padding: 15px;
+    margin-bottom: 60px;
+}
+.intruder-container{
+    display: flex;
+    justify-content: center;
+}
