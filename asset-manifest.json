@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IOT-DASHBOARD/static/css/main.36396005.css",
+    "main.js": "/IOT-DASHBOARD/static/js/main.d6fc5e7f.js",
+    "static/media/soilmoisturebackground.png": "/IOT-DASHBOARD/static/media/soilmoisturebackground.cce7c48cac83e3e2aebb.png",
+    "static/media/agrileafimage.png": "/IOT-DASHBOARD/static/media/agrileafimage.985dabf0058b018457d2.png",
+    "static/media/Image.png": "/IOT-DASHBOARD/static/media/Image.5e022d4f4012be45adf8.png",
+    "static/media/Image2.png": "/IOT-DASHBOARD/static/media/Image2.5e022d4f4012be45adf8.png",
+    "static/media/snow.png": "/IOT-DASHBOARD/static/media/snow.1911fed2297be0a5f7b9.png",
+    "static/media/sunny.avif": "/IOT-DASHBOARD/static/media/sunny.ad2174bd5c3fe7207b72.avif",
+    "static/media/graphsoilmoisture.png": "/IOT-DASHBOARD/static/media/graphsoilmoisture.e8bd803f784f54666d2d.png",
+    "static/media/rainimage.jpg": "/IOT-DASHBOARD/static/media/rainimage.6be2ae08f9f3c207d154.jpg",
+    "static/media/slick.svg": "/IOT-DASHBOARD/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/IOT-DASHBOARD/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/IOT-DASHBOARD/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/IOT-DASHBOARD/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/IOT-DASHBOARD/index.html",
+    "main.36396005.css.map": "/IOT-DASHBOARD/static/css/main.36396005.css.map",
+    "main.d6fc5e7f.js.map": "/IOT-DASHBOARD/static/js/main.d6fc5e7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36396005.css",
+    "static/js/main.d6fc5e7f.js"
+  ]
+}
