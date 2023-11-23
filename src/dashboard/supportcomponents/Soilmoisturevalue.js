@@ -33,7 +33,7 @@ const Soilmoisturevalue = () => {
   return (
     <>
       {error && <p>{error}</p>}
-      {soilMoisture && <p>{soilMoisture}</p>}
+      {soilMoisture && <span>{soilMoisture}</span>}
       <span>%</span>
     </>
   );
