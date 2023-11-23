@@ -13,7 +13,7 @@
     background-image: url('sunny.avif'); 
     background-size:cover;
     background-position: center;
-    background-repeat:no-repeat; 
+    background-repeat:repeat; 
     color: darkred;
   }
   .sunny-background p{
