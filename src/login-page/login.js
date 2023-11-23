@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './login.css';
 import LoginInput from './login-components/loginInput';
 import ToggleLoginInput from './login-components/toggleLoginInput';
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 const LoginPage = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -37,9 +37,9 @@ const LoginPage = () => {
             <br/>
             <ToggleLoginInput placeholder="Please Enter your Password" required="required" name="Password" value={password} onChange={handlePasswordChange}/>
             <br/>
-            <Link to="/Dashboard" className="buttonid">Login</Link><br/><br/>
+            <NavLink to="/Dashboard" className="buttonid">Login</NavLink><br/><br/>
           </form>
-          <Link to="/Registerpage" style={linkstyle}>register your account</Link>
+          <NavLink to="/Registerpage" style={linkstyle}>register your account</NavLink>
         </div>
       </div>
       <div className='Img-container'><h1>Connecting<br/> the World,<br/> with the<br/> power of IOT Devices</h1></div>
