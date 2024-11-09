@@ -1,6 +1,7 @@
 .soilmoisture-container{
     padding: 10px;
     color: azure;
+    background-color: brown;
 }
 .soilmoisture-container span{
     color: white;
